@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Vibhor this side
+I am a comp sci student at IIITM Gwalior.
+- 🔭 I’m currently working on an NLP mini project.
+- 🌱 I’m currently learning Deep learning (through the Andrew Ng course lovin it)
+- 👯 I’m looking to collaborate on as many as possible ML projects
+- 😄 Pronouns:He/Him
+
 
 <!--
 **vibhor-5/vibhor-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
