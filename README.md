@@ -1,13 +1,12 @@
 ### Hi there 👋 Vibhor this side
 I am a comp sci student at IIITM Gwalior.
-- 🔭 I’m currently working on an NLP mini project.
-- 🌱 I’m currently learning Deep learning (through the Andrew Ng course lovin it)
+- 🔭 I’m currently working on an ML mini project.
 - 👯 I’m looking to collaborate on as many as possible ML projects
 - 😄 Pronouns:He/Him
 
 
 
-You can reach out to me via:[Instagram](https://www.instagram.com/vibhor._.5/) ,[twitter](https://twitter.com/idk_how_to_code) or [LinkedIn](https://www.linkedin.com/in/vibhor-kumar-3b1790256/)
+You can reach out to me via:[twitter](https://twitter.com/idk_how_to_code) or [LinkedIn](https://www.linkedin.com/in/vibhor-kumar-3b1790256/)
 
 
 <!--
