@@ -1,7 +1,5 @@
 ### Hi there 👋 Vibhor this side
-I am a comp sci student at IIITM Gwalior.
-- 🔭 I’m currently working on an ML mini project.
-- 👯 I’m looking to collaborate on as many as possible ML projects
+- 👯 I’m looking to collaborate on as many as possible Mech Interp projects
 - 😄 Pronouns:He/Him
 
 
