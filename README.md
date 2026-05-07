@@ -1,23 +1,95 @@
-### Hi there 👋 Vibhor this side
-- 👯 I’m looking to collaborate on as many as possible Mech Interp projects
-- 😄 Pronouns:He/Him
+#### hi, i'm Vibhor
 
+generalist engineer interested in building useful systems.
 
+currently exploring:
+- ai / ml
+- backend systems
+- devops & infrastructure
+- mlops
+- distributed systems
+- automation
+- developer tooling
 
-You can reach out to me via:[twitter](https://twitter.com/idk_how_to_code) or [LinkedIn](https://www.linkedin.com/in/vibhor-kumar-3b1790256/)
+i like understanding how things work end-to-end — from models and APIs to deployment pipelines and production infra.
 
+---
 
-<!--
-**vibhor-5/vibhor-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## stack
 
-Here are some ideas to get you started:
+**languages**
+- python
+- typescript
+- javascript
+- go
+- c++
+- sql
+- bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**backend**
+- fastapi
+- node.js
+- express
+- django
+- grpc
+- websocket systems
+- REST APIs
+
+**ai / ml**
+- pytorch
+- transformers
+- langchain
+- vector databases
+- rag pipelines
+- inference systems
+- fine-tuning workflows
+- RLVR
+- Diffusion models - flow matching models
+- Mech interp
+
+**devops / cloud**
+- docker
+- kubernetes
+- linux
+- nginx
+- github actions
+- terraform
+- ci/cd
+- aws
+- gcp
+
+**databases**
+- postgres
+- redis
+- mongodb
+- elasticsearch
+
+**other things i enjoy**
+- system design
+- self-hosting
+- observability
+- open source
+- performance optimization
+- automation scripts
+- terminal workflows
+
+---
+
+## philosophy
+
+keep things:
+- simple
+- fast
+- maintainable
+- useful
+
+---
+
+## current focus
+
+building practical systems that combine:
+- ai
+- scalable backend architecture
+- reliable infrastructure
+
+always learning.
