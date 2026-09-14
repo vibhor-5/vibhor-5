@@ -6,9 +6,7 @@ currently exploring ai/ml, distributed systems, developer tooling, inference inf
 
 I enjoy understanding systems end-to-end from models and APIs to deployment pipelines and production infra.
 
----
-
-**interests** → system design • self-hosting • observability • open source • performance optimization • automation • terminal workflows
+interests → system design • self-hosting • observability • open source • performance optimization • automation • terminal workflows
 
 ---
 
