@@ -10,14 +10,8 @@ interests → system design • mech interp • self-hosting • observability �
 
 ---
 
-## philosophy
-
-simple • fast • maintainable • useful
-
----
-
 ## current focus
 
-building practical systems that combine ai, scalable backend systems, and reliable infrastructure.
+building practical systems that combine ai, scalable backend systems, and reliable infrastructure and learning mech interp making projects and tinkering around the inside of models.
 
 always learning.
